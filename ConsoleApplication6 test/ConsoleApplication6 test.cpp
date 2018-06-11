@@ -40,7 +40,7 @@ int main()
 	printf("请按先序输入二叉树的元素！\n");
 	CreateBiTree(l);
 	printf("按中序遍历法输出该二叉树的元素为：\n");
-	InOrderTraverse2(l);
+	InOrderTraverse2(l); 
 	printf("\n");
 	system("pause");
 	return 0;
