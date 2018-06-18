@@ -21,12 +21,21 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\ConsoleApplication6 test\list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="2018年6月18日.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="next.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
