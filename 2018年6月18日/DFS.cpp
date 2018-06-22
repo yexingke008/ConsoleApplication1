@@ -19,7 +19,7 @@ void dfs(int v)
 		if (!visited[*it])
 			dfs(*it);
 }
-void bfs(int v)
+void bfs(int v) 
 {
 	list<int>::iterator it;
 	printf("%5d", v);
